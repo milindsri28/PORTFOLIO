@@ -8,7 +8,7 @@ export const Bio = {
   description:
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/milindsri28",
-  resume:"https://drive.google.com/file/d/1ngtkjULeFVXGGnnaL_guzaHlcZiG5i_K/view?usp=sharing",    
+  resume:"https://drive.google.com/file/d/1ddYkubrJtiCnk66UYUn_7bYHNzYIcSqR/view?usp=drive_link",    
   linkedin: "https://www.linkedin.com/in/milind-srivastava-29b83b234/",
   WhatsApp: "https://wa.me/qr/IW2PSU64AQK5F1",
   Telegram: "http://t.me/milindsr28",
