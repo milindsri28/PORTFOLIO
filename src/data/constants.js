@@ -8,7 +8,7 @@ export const Bio = {
   description:
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/milindsri28",
-  resume:"https://drive.google.com/file/d/1GO08iE8F3hSzX7qBdVqqDeYzEduUMKlN/view?usp=sharing",    
+  resume:"https://drive.google.com/file/d/1JW4kc89RKtVwplWXfH2koXsnnwimkPle/view?usp=sharing",    
   linkedin: "https://www.linkedin.com/in/milind-srivastava-29b83b234/",
   WhatsApp: "https://wa.me/qr/IW2PSU64AQK5F1",
   Telegram: "http://t.me/milindsr28",
@@ -274,51 +274,37 @@ export const skills = [
 ];
 
 export const experiences = [
-  {
+   {
     id: 0,
+    img: "https://www.linkedin.com/company/byteedu",
+    role: "Full Stack Developer",
+    company: "Shriram Bioseed Genetics (A Division of DCM Shriram Ltd)",
+    date: "Dec 2024 - Jan 2025",
+    desc: "• Designed and developed a customized AI chatbot to improve operational efficiency and streamline workflows.Enhanced internal processes by providing data-driven insights and optimizing workflows.Optimized internal processes by leveraging data-driven approaches and aligning with organizational goals.",
+    
+    // doc: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/Screenshot%20from%202024-01-25%2022-38-31.png?alt=media&token=2785903f-1a4e-41f5-afd2-6adcfe56d058",
+  },
+  {
+    id: 1,
     img: "https://bioseed.com/images/logo.jpg",
     role: "Software Developer Engineer Intern",
     company: "Shriram Bioseed Genetics (A Division of DCM Shriram Ltd)",
     date: "Dec 2024 - Jan 2025",
     desc: "• Designed and developed a customized AI chatbot to improve operational efficiency and streamline workflows.Enhanced internal processes by providing data-driven insights and optimizing workflows.Optimized internal processes by leveraging data-driven approaches and aligning with organizational goals.",
-    skills: [
-      "Python",
-      "NLP",
-      "Mongo DB",
-      "Express",
-      "React",
-      "Node",
-      "Rest API",
-    ],
+    
     // doc: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/Screenshot%20from%202024-01-25%2022-38-31.png?alt=media&token=2785903f-1a4e-41f5-afd2-6adcfe56d058",
   },
   {
-    id: 1,
+    id: 2,
     img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ2aaagxQR51qg0yqZEyIwnT_Bf5_E3-4AnQ&s3",
     role: "Software Developer engineer Intern",
     company: "Gyankalash International School",
     date: "Dec 2023 - Jan 2024",
     desc: "• Designed and launched a comprehensive website for Gyankalash International School, incorporating user-friendly features and educational resources; obtained an increase in site traffic by 50% within the first quater post-launch. Revamped website content strategy in collabration with marketing and content teams, ensuring alignment with institutional goals; resulted in a 25% boost in prospective student inquiries. ",
-    skills: [
-      "Mongo DB","Express","React","Node",
-      
-    ],
+    
     // doc: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/1696514649120.jpeg?alt=media&token=e7f6757b-edfa-4138-a692-d6709eeef3e2",
   },
-  {
-    id: 2,
-    img: "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1200,h=630,fit=crop,f=jpeg/Aq20eV79zLfpXV6b/1685789339697-YrDL60zzRBfzM6Wr.jpg",
-    role: "Android Developer Intern",
-    company: "CodSoft",
-    date: "Oct 2023 - Nov 2023",
-    desc: "•This internship was an educational opportunity for me; hence the primary focus was on learning and developing new skills and gaining hands on knowledge.Performed all the assigned tasks to the best of my ability and following all lawaful and reasonable insturctions provided to me.",
-    skills: [
-      "Flutter",
-      "Firebase",
-      
-    ],
-    // doc: "https://firebasestorage.googleapis.com/v0/b/buckoid-917cf.appspot.com/o/WhatsApp%20Image%202023-05-05%20at%2012.07.39%20AM.jpeg?alt=media&token=9f0e1648-568b-422d-bd0b-1f125f722245",
-  },
+  
   
 ];
 
