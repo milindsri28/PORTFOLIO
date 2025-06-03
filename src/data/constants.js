@@ -276,10 +276,10 @@ export const skills = [
 export const experiences = [
    {
     id: 0,
-    img: "https://www.linkedin.com/company/byteedu",
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSSvvrO3ZohPUnoeQ4VKQxQQ3iyh9mq62pRg&s",
     role: "Full Stack Developer",
-    company: "Shriram Bioseed Genetics (A Division of DCM Shriram Ltd)",
-    date: "Dec 2024 - Jan 2025",
+    company: "ByteEdu",
+    date: "May 2025 - ongoing",
     desc: "• Designed and developed a customized AI chatbot to improve operational efficiency and streamline workflows.Enhanced internal processes by providing data-driven insights and optimizing workflows.Optimized internal processes by leveraging data-driven approaches and aligning with organizational goals.",
     
     // doc: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/Screenshot%20from%202024-01-25%2022-38-31.png?alt=media&token=2785903f-1a4e-41f5-afd2-6adcfe56d058",
