@@ -133,6 +133,7 @@ const Projects = () => {
           >
             MACHINE LEARNING
           </ToggleButton>
+             <Divider />
 
            <ToggleButton
             active={toggle === "machine learning"}
