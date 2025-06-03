@@ -280,7 +280,7 @@ export const experiences = [
     role: "Full Stack Developer",
     company: "ByteEdu",
     date: "May 2025 - ongoing",
-    desc: "• Designed and developed a customized AI chatbot to improve operational efficiency and streamline workflows.Enhanced internal processes by providing data-driven insights and optimizing workflows.Optimized internal processes by leveraging data-driven approaches and aligning with organizational goals.",
+    desc: "Developing real-world projects using React.js, Next.js, Node.js, and Express.js in an agile environment; integrated RESTful APIs and managed data with MongoDB, Supabase and SQL.Ensuring code quality through reviews, performance tuning, and Git-based version control.",
     
     // doc: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/Screenshot%20from%202024-01-25%2022-38-31.png?alt=media&token=2785903f-1a4e-41f5-afd2-6adcfe56d058",
   },
