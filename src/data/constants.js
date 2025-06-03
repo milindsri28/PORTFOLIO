@@ -122,50 +122,33 @@ export const skills = [
       },
     ],
   },
-  // {
-  //   title: "DevOps",
-  //   skills: [
-  //     {
-  //       name: "AWS",
-  //       image:
-  //         "https://download.logo.wine/logo/Amazon_Web_Services/Amazon_Web_Services-Logo.wine.png",
-  //     },
-  //     {
-  //       name: "Google Cloud",
-  //       image:
-  //         "https://static-00.iconduck.com/assets.00/google-cloud-platform-logo-icon-2048x1824-pg4wzspq.png",
-  //     },
-  //     {
-  //       name: "Docker",
-  //       image:
-  //         "https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg",
-  //     },
-  //     {
-  //       name: "Jenkins",
-  //       image:
-  //         "https://toppng.com/uploads/preview/jenkins-logo-11609365847mufysaivph.png",
-  //     },
-  //     {
-  //       name: "Nginx",
-  //       image: "https://download.logo.wine/logo/Nginx/Nginx-Logo.wine.png",
-  //     },
-  //     {
-  //       name: "Grafana",
-  //       image:
-  //         "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Grafana_logo.svg/1200px-Grafana_logo.svg.png",
-  //     },
-  //     {
-  //       name: "Kubernetes",
-  //       image:
-  //         "https://upload.wikimedia.org/wikipedia/commons/0/00/Kubernetes_%28container_engine%29.png",
-  //     },
-  //     {
-  //       name: "Prometheus",
-  //       image:
-  //         "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Prometheus_software_logo.svg/1200px-Prometheus_software_logo.svg.png",
-  //     },
-  //   ],
-  // },
+  {
+    title: "DevOps",
+    skills: [
+      {
+        name: "AWS",
+        image:
+          "https://download.logo.wine/logo/Amazon_Web_Services/Amazon_Web_Services-Logo.wine.png",
+      },
+      {
+        name: "Google Cloud",
+        image:
+          "https://static-00.iconduck.com/assets.00/google-cloud-platform-logo-icon-2048x1824-pg4wzspq.png",
+      },
+      {
+        name: "Docker",
+        image:
+          "https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg",
+      },   
+    
+      {
+        name: "Kubernetes",
+        image:
+          "https://upload.wikimedia.org/wikipedia/commons/0/00/Kubernetes_%28container_engine%29.png",
+      },
+     
+    ],
+  },
   {
     title: "Android",
     skills: [
@@ -314,7 +297,7 @@ export const education = [
     img: "https://collegeindia.s3.ap-south-1.amazonaws.com/uploads/university_logo/vit-bhopal-university-college-of-engineering-logo-24-08-2018.png",
     school: "Vellore Institue of Technology, Bhopal",
     date: "Sep 2021 - Aug 2025",
-    // grade: "8.41 CGPA",
+  
     desc: "I am currently pursuing a Bachelor's degree in Computer Science and Engineering at Vellore Institue of Technology, Bhopal. I have taken courses in Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks, among others. I am also a member of the Google Developers Student Club (GDSC) at VIT, where I am learning and working on exciting projects with a team of talented developers.",
     degree: "Bachelor of Technology - BTech, Computer Science and Engineering",
   },
@@ -323,7 +306,7 @@ export const education = [
     img: "https://content3.jdmagicbox.com/comp/gorakhpur/d3/9999px551.x551.110327182947.y5d3/catalogue/j-p-education-academy-gorakhnath-mandir-gorakhpur-cbse-schools-duuf0egk6y.jpg",
     school: "J.P. Education Academy, Gorakhpur",
     date: "May 2019 - Apr 2021",
-    // grade: "88.2%",
+
     desc: "I completed my class 12 high school education at J.P. Education Academy, Gorakhpur, where I studied Science with Computer Science.",
     degree: "CBSE(XII), Science with Computer",
   },
@@ -332,7 +315,7 @@ export const education = [
     img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT67H4dzxyvYcZKpFSLzX5eZNotkQcZw7noNg&s",
     school: "Little Flower School, Gorakhpur",
     date: "Apr 2019",
-    // grade: "92.3%",
+
     desc: "I completed my class 10 education at Little Flower School, Gorakhpur, where I studied Science with Computer Application.",
     degree: "ICSE(X), Science with Computer",
   },
