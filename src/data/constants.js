@@ -322,9 +322,25 @@ export const education = [
 ];
 
 export const projects = [
+    {
+    id: 0,
+    title: "Seeksha Saathi",
+    
+    description:
+      "ShikshaSaathi is a comprehensive Learning Management System (LMS) designed to transform education for classes 1–12. It offers a seamless, user-friendly interface for teachers to deliver curriculum-aligned video lessons, quizzes, virtual labs, and mentorship, while empowering students with interactive learning, doubt-solving, progress tracking, and gamified engagement. Parents also gain valuable insights into their child’s academic growth through dedicated dashboards.",
+    image:
+      "https://drive.google.com/file/d/1dmDE7heoYhmhUeoVkKzFQtgYZjpaYGr2/view?usp=sharing",
+    tags: [
+      "Nest.js","React","Vercel","bolt"
+
+    ],
+    category: "web app",
+    github: "https://github.com/milindsri28/SeeksaS.git",
+  
+  },
   
   {
-    id: 0,
+    id: 1,
     title: "TaskHive",
     
     description:
@@ -349,7 +365,7 @@ export const projects = [
   
   },
   {
-    id: 1,
+    id: 2,
     title: "Podstream", 
     description:
       "Developed a full-stack web application that allows users to search for, play, and pause their favorite podcasts on demand and create podcasts. Implemented user authentication using Google Auth and Jwt Auth, made responsive user interface with React JS that provides users with a seamless experience across all devices. Practiced agile methodologies to optimize team efficiency and communication.",
@@ -361,7 +377,7 @@ export const projects = [
    
   },
   {
-    id: 2,
+    id: 3,
     title: "Brain Tumor Detection",
     
     description:
@@ -375,7 +391,7 @@ export const projects = [
    
   }, 
   {
-    id: 3,
+    id: 4,
     title: "Whatsapp Clone",
     
     description:
@@ -388,7 +404,7 @@ export const projects = [
     
   },    
   {
-    id: 4,
+    id: 5,
     title: "Quiz App",
   
     description:
@@ -401,7 +417,7 @@ export const projects = [
     
   },
   {
-    id: 5,
+    id: 6,
     title: "Face Recognition",
   
     description:
@@ -414,7 +430,7 @@ export const projects = [
    
   },
   {
-    id: 5,
+    id: 7,
     title: "ChatO",
   
     description:
